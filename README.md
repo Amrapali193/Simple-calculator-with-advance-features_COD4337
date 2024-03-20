@@ -67,11 +67,16 @@ RATIONALE:
 
 
   1.The Calculator class implements the ActionListener interface to handle button clicks.
+  
   2.The main method creates the calculator window by calling the createWindow method.
+  
    3.The createWindow method sets up the JFrame and calls the createUI method to create the calculator's user interface.
+   
    4.The createUI method sets up the JPanel, adds buttons and the input text field, and sets the layout using GridBagLayout.
-    5.The actionPerformed method is called when a button is clicked. It handles different button actions, such as clearing the input, evaluating the expression, or appending numbers and operators to the input text field.
-    6.The evaluate method takes an expression as input, parses it, performs the arithmetic operation, and returns the result.
+   
+5.The actionPerformed method is called when a button is clicked. It handles different button actions, such as clearing the input, evaluating the expression, or appending numbers and operators to the input text field.
+    
+ 6.The evaluate method takes an expression as input, parses it, performs the arithmetic operation, and returns the result.
 
 
 CONCLUSION: In conclusion the task assigned to Amrapali Sonkamble during CodTech IT solutions internship programming building a simple calculator .The implemented solution successfully accomplishes this task using a 'switch case'.This documentation provides insights ,into the implementation details ,code explanation and rationale behind the chosen approach .Amrapali Sonkamble with the intern ID:COD4337 has effectively completed this task as part of internship programme.
